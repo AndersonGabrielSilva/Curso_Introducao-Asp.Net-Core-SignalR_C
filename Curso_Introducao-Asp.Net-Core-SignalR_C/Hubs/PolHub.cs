@@ -25,5 +25,6 @@ namespace Curso_Introducao_Asp.Net_Core_SignalR_C.Hubs
         {
             await Clients.All.SendAsync("ReceiveMessage", user, message, myChanelId, myChanelVal).ConfigureAwait(false);
         }
+
     }
 }
