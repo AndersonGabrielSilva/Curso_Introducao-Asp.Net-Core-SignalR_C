@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso_Introducao-Asp.Net-Core-SignalR_C", "Curso_Introducao-Asp.Net-Core-SignalR_C\Curso_Introducao-Asp.Net-Core-SignalR_C.csproj", "{E14DA884-58F9-4DBF-A78F-A6ABEE632C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E14DA884-58F9-4DBF-A78F-A6ABEE632C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14DA884-58F9-4DBF-A78F-A6ABEE632C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14DA884-58F9-4DBF-A78F-A6ABEE632C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14DA884-58F9-4DBF-A78F-A6ABEE632C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C96C3D97-00CA-46F7-935C-DFB1458377A5}
+	EndGlobalSection
+EndGlobal
